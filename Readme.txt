@@ -3,3 +3,5 @@ To run Cython code first we need to install cython library using below command
 we have cython sample code in cython_code.pyx to run cython code we need to create setup.py and run build command
 << python setup.py build_ext --inplace >>
 Now create python file and import cython_code and use the function and see the difference
+cython documentation link is below
+https://docs.cython.org/en/latest/src/quickstart/index.html
